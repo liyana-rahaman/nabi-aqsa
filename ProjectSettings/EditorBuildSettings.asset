@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Daftar.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SIRAH_Ibr.unity
+    guid: 8134be789d546411898148cd8d496502
+  - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: 5258cca479fbb4b8a9905c20c9e564b0
+  - enabled: 1
+    path: Assets/Scenes/PM_Ibrahim.unity
+    guid: e2c6a7e8de85544a4b9faf0dce18485b
+  - enabled: 1
+    path: Assets/Scenes/LogMasuk.unity
+    guid: 72cff17813a474c6aa536ee9ad2464b0
+  - enabled: 1
+    path: Assets/Scenes/HalamanUtama.unity
+    guid: 647b18e41d5224934bd38f0988ace02d
+  - enabled: 1
+    path: Assets/Scenes/_VideoPlayer/Scenes/VID_Isa.unity
+    guid: 847a0f1e9387849b39702e31845367ff
+  - enabled: 1
+    path: Assets/Scenes/PM_Isa.unity
+    guid: 825c62276edc24804a09b389d71e9312
+  - enabled: 1
+    path: Assets/Scenes/PM_Muhd.unity
+    guid: af17909fab3544f93b4fd19966066943
+  - enabled: 1
+    path: Assets/Scenes/AKTV_Hadis.unity
+    guid: 49acea6ae220b4cf2b9e5cfc5f12af2a
+  - enabled: 1
+    path: Assets/Scenes/AKTV_Origami.unity
+    guid: 76580987eb57144d6a64be7b671328ce
+  - enabled: 1
+    path: Assets/Scenes/AKTV_Warna.unity
+    guid: 80525073c0e31412494ee0cd6e2e3bab
+  - enabled: 1
+    path: Assets/Scenes/PERM_DnD.unity
+    guid: b584dfba4bcab43a4bda26d7b47410a8
+  - enabled: 1
+    path: Assets/Scenes/PERM_Ibr.unity
+    guid: 6440ae79feb894118a932734205b1ab9
+  - enabled: 1
+    path: Assets/Scenes/PERM_Isa.unity
+    guid: 84cd9f6f39c894a60bb407939be0f6b7
+  - enabled: 1
+    path: Assets/Scenes/SIRAH_Isa.unity
+    guid: 4bf0fc74e01704137915bd8b48cc54dd
+  - enabled: 1
+    path: Assets/Scenes/SIRAH_Muhd.unity
+    guid: c79ee58149f444fdeafd49e3ac7dce86
+  - enabled: 1
+    path: Assets/Scenes/PERM_Muhd.unity
+    guid: 3311795afd65a4f7191acb6f74c57eb2
+  - enabled: 1
+    path: Assets/Scenes/KUIZ_Ibr.unity
+    guid: 363838ce17d5e4d10ab5e366ef18f97d
+  - enabled: 1
+    path: Assets/Scenes/_VideoPlayer/Scenes/Tutorial.unity
+    guid: 12dad9356655441d09a6c9ef12e13cbd
+  - enabled: 1
+    path: Assets/Scenes/LupaKataLaluan.unity
+    guid: 4b3d0d276038d4113a472d49de3aa4a8
+  - enabled: 1
+    path: Assets/Scenes/_VideoPlayer/Scenes/VID_Muhd.unity
+    guid: 3f3ac962396f64a04a6a97edc9fb4a15
+  - enabled: 1
+    path: Assets/Scenes/KUIZ_Isa.unity
+    guid: e8539783c3b114086926284ff03a68b0
+  - enabled: 1
+    path: Assets/Scenes/KUIZ_Muhd.unity
+    guid: c4656bb2fb798416fbae324a549df50d
+  m_configObjects: {}
