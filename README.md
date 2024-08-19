@@ -21,7 +21,7 @@ Using Unity with backend engineered using Firebase.
 ### Screens
 ![DAFTAR AKAUN](Assets/NA1_DAFTAR.png)
 ![LOG MASUK](Assets/NA2_LOGMASUK.png)
-![LUPA KATA LALUAN](Assets/NA4_LUPA KL.png)
+![LUPA KATA LALUAN](Assets/`NA4_LUPA KL.png`)
 ![HALAMAN UTAMA](Assets/NA3_HALAMAN UTAMA.png)
 ![HALAMAN SIRAH](Assets/NA8_HALAMAN SIRAH.png)
 ![VIDEO PENCERITAAN](Assets/NA6_VIDEO.png)
