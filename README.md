@@ -9,9 +9,12 @@ Using Unity with backend engineered using Firebase.
 
 ## Features
 
-* Login/Register/ Logout
+* Login/Register/Logout
 * Storytelling Video
 * Mind Map
 * Quiz
 * Matching Game
 * Mini Activity
+
+### Screens
+![Daftar Akaun](/Users/liyanarahaman/Documents/NA1_DAFTAR.png)
