@@ -17,4 +17,4 @@ Using Unity with backend engineered using Firebase.
 * Mini Activity
 
 ### Screens
-![Daftar Akaun](/Users/liyanarahaman/Documents/NA1_DAFTAR.png)
+![Daftar Akaun](Assets/NA1_DAFTAR.png)
